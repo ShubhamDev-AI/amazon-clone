@@ -8,6 +8,7 @@ import CurrencyFormat from "react-currency-format";
 import { getBasketTotal } from "./reducer";
 import axios from './axios';
 import { db } from "./firebase";
+///firebase
 
 function Payment() {
     const [{ basket, user }, dispatch] = useStateValue();
