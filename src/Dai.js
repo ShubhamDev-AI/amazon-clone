@@ -1,7 +1,7 @@
 import React from 'react';
 import './dai.css';
 
-function dai () {
+function Dai () {
 
   return (
   
@@ -35,4 +35,4 @@ function dai () {
   )
 }
 
-export default dai;
+export default Dai;
